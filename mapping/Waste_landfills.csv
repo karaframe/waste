@@ -1,0 +1,176 @@
+ID,Member_state,Landfills_visited,Address,Latitude,Longitude
+1,Bulgaria,Shumen landfill Site,"Divdyadovo quarter, locality of Chernyovetz, Shumen city",43.27124,26.936129
+2,Bulgaria,"Yambol Landfill Site (Drajevo, Hadjidimitrovo)","On the territory of Hadjidimitrovo village, municipality of Tundja, District of Yambol",43.519205,25.457062
+3,Bulgaria,Stara Zagora Landfill (Hristianovo and Bogomilovo),"On the territory of Hristianovo and Bogomilovo villages, situated at approximately 8 km SW from the town of Stara Zagora    ",42.425777,25.634464
+4,Bulgaria,Bansko Landfill Site,"On the territory of the municipality of Razlog, situated at approximately 5 km NE from the town    ",41.840424,23.485653
+5,Bulgaria,Kardjali Landfill Site ,"On the territory of Vishegrad village, situated at approximately 7 km SE from the city of Kardjali    ",41.633844,25.377712
+6,Croatia,Mraclinska Dubrava,"Mraclinska Dubravab.b., Mraclin
+Operator: VG ?isto?ad.o.o., communal services of the city Velika Gorica",45.794764,16.019577
+7,Croatia,Totove (near ?akovec),"Gospodarska 2, Totovec, 40 000 ?akovec
+Operator: ?akomd.o.o., communal services of the city ?akovec
+",46.389738,16.437965
+8,Croatia,"Diklo, Zadar","Diklo b.b.
+Operator: ?isto?a d.o.o., Zadar communal services of the city Zadar",44.152315,15.202347
+9,Croatia,Sveti Juraj ,"Sveti Juraj, b.b.
+Operator: Komunalac d.d., communal services of the town of Senj
+",44.928342,14.920183
+10,Croatia,Karepovac ,"Dra?eva 122, 20 000 Split
+Operator: ?isto?a d.o.o., communal services of the city of Split
+",43.520634,16.501749
+11,Cyprus,Paphos,"Marathounta Village, Paphos District
+
+
+",34.772013,32.429737
+12,Cyprus,Larnaka,"Kochi Village, Larnaca District
+
+
+",34.900254,33.623172
+13,Czech_Republic,Landfill Hen?ov – Jihlava,"Služby m?sta Jihlavy, s.r.o. (thereafter is “SMJ”)
+Havlí?kova 64, Jihlava
+Czech Republic
+",49.414308,15.637068
+14,Czech_Republic,Skládka odpad? Vysoká,"Marius Pedersen, a.s. (hereafter “MP”)
+Pr?b?žná 1940/3; Hradec Králové; 500 09
+Czech Republic
+",50.107239,14.492168
+15,Czech_Republic,Landfill Koš?álov,"Marius Pedersen, a.s. (hereafter “MP”)
+Pr?b?žná 1940/3; Hradec Králové; 500 09
+Czech Republic
+",50.571651,15.404035
+16,Czech_Republic,Landfill Zdechovice – Chvaletice,"Marius Pedersen, a.s. (hereafter “MP”)
+Pr?b?žná 1940/3; Hradec Králové; 500 09
+Czech Republic
+",50.014424,15.463869
+17,Czech_Republic,Landfill Ji?ín,"Technické služby m?sta Ji?ína (thereafter is “TSJ”)
+Textilní 955, 506 01 Ji?ín
+Czech Republic
+",50.435333,15.361044
+18,Greece,Athens (Ano Liossia Landfill),"Scalistiri Location, Municipality of Fili",37.98381,23.727539
+19,Greece,Temploni landfill,Locality Akrokefalos Temploniu,39.640422,19.804871
+20,Greece,Thessaloniki Landfill,"Mayrorahi, Municipality of Lagadas, 57200, tel. 2394028050 
+LON: 23° 04' 60"" LAT: 40° 51' 00""
+",40.640063,22.944419
+21,Greece,Northern Rhodes Landfill – Rhodes,2 km Tsairi-Aerodromiou Avenue,36.434963,28.217483
+22,Greece,Kefallonia,"Municipality of Kefalonia
+Locality: Zola, Pallosti
+",38.175368,20.569218
+23,Hungary,Berettyóújfalu,"H- 4100 Berettyóújfalu, Land register nr: 0714/13
+GPS: 47°09'54.9""N 21°31'11.6""E
+",47.219644,21.536281
+24,Hungary,Jánossomorja ,"Jánossomorja Land register nr.: 0203/24
+GPS: 47°45'58.9""N 17°11'26.0""E
+",47.784792,17.129864
+25,Hungary,Kaposmér? ,"H-7432 Hetes Land register 062/1/A-D 
+GPS: 46°22'48.0""N 17°40'58.9""E
+",46.359236,17.701712
+26,Hungary,Pusztazámor,"ztazámor Land register nr.: 073
+GPS: 47°22'44.5""N 18°47'51.6""E
+",47.404425,18.783046
+27,Hungary,Fels?-Bácska ,"H- 6521 Vaskút,
+GPS: 46°07'30.1""N 19°02'13.1""E
+IPPC Environmental Client ID: 101 612 792
+",46.55586,16.381055
+28,Ireland,Drehid,"Drehid Facility,  Killinagh Upper, Carbury, County Kildare",53.35672,-6.894371
+29,Ireland,Knockharley,"Navan, Meath.",53.647322,-6.534741
+30,Ireland,Rathroeen,"Rathroeen, Ballina, Mayo",54.151609,-9.165744
+31,Ireland,Ballynagran,"Ballynagran, Coolbeg, Wicklow, County Wicklow. ",53.21695,-7.30692
+32,Italy,Palermo - Bellolampo Landfill,S.P. 1 km 4+900 90135 Palermo,38.13609,13.271398
+33,Italy,Torino - Grosso Landfill,Locality Vuada Grande - 40070 Grosso TO - Italy,45.254943,7.556893
+34,Italy,Bologna - Gaggio Bologna Landfill,"Loc. Ca’ dei Ladri, 253 – 40040 Silla di Gaggio Montano",44.279238,11.002897
+35,Italy,Savona - Vado Ligure Landfill,Loc. Boscaccio – Vado Ligure - Savona,44.269105,8.439782
+36,Italy,Potenza - Sant Arcangelo Landfill,"Località Frontoni
+85037 - Sant’Arcangelo (PZ)
+",40.256682,16.272657
+37,Latvia,Getli?i Landfill ,"Kaudz?šu street 57, Rumbula, Stopi?u parish
+Pier?ga waste management region
+",56.881826,24.290301
+38,Latvia,Dzi?? v?da Landfill ,"Dzi?? v?da, Mež?res parish, Krustpils district, Latvia
+Vidusdaugava waste management region
+",49.552778,20.955555
+39,Latvia,Križevniki Landfill ,"Križev?iki, Ozolaine parish, R?zekne district
+Austrumlatgale waste management region
+",56.415762,27.278329
+40,Latvia, ??v?tes Landfill,"??v?tes, Grobi?a parish, Grobina district, Latvia
+Liepaja waste management region
+",56.499385,21.163308
+41,Latvia,Granti?i Landfill,"Granti?i, Codes parish, Bauskas district
+Zemgale waste management region
+",56.796181,21.795396
+42,Lithuania,Kaunas Lap?s landfill,"Lepšiški? kaimas, Lapi? seni?nija, Kauno r.",54.973535,24.001048
+43,Lithuania,Klaip?da landfill,"Ketvergi? g. 2, Klaip?dos raj.",55.703295,21.144279
+44,Lithuania,Panev?žys landfill,"Dvarinink? k., Miežiški? sen., Panev?žio r.",55.734792,24.357477
+45,Lithuania,Taurag? landfill,"Kaupi? kaimas, Žigai?i? sen., Taurag?s savivaldyb?",55.250366,22.29095
+46,Lithuania,Vilnius landfill,"Kazokiški? seni?nija, Elektr?n? savivaldyb?",54.687156,25.279651
+47,Malta,Ghallis,"G?allis Non-hazardous Engineered Waste Management Facility l/o Naxxar – Naxxar
+Malta
+",35.934731,14.461898
+48,Poland,Lipnie Stare (region Warsaw),"Stare Lipiny Al. Niepodleg?o?ci 253, 05-200 Wo?omin ",52.229676,21.012229
+49,Poland,Landfill in Nysa (region Opole) ,"Domaszkowice 156, post code: 48-303 Nysa
+
+
+",50.482286,17.329586
+50,Poland,Janczyce (South East of Poland),"Janczyce 50, post code: 27-552 Ba?kowice ",50.764179,21.232753
+51,Poland,"S?ajsin, North-West Poland","S?ajsino 30, 72-200 Nowogard",53.66139,15.26028
+52,Portugal,"Barlavento landfill, operated by Algar","Aterro Sanitário do Barlavento 
+Chão Frio – Porto de Lagos 
+8500 Portimão, Portugal
+",37.1361,-8.537693
+53,Portugal,"Seixal landfill, operated by Amarsul","Ecoparque do Seixal (Seixal eco-park)
+Pinhal Conde da Cunha
+2840-001 Amora-Seixal, Portugal
+",38.641068,-9.0975
+54,Portugal,"Fundão landfill, operated by Resiestrela","Estrada de Peroviseu, Quinta das Areias, Alcaria
+6230-022 Alcaria Fundão
+",40.137963,-7.501077
+55,Portugal,"Viana do Castelo landfill, operated by Resulima","Aterro Sanitário do Vale do Lima e Baixo Cávado
+Apartado 11
+4936-908 Vila Nova da Anha, Portugal
+",41.691828,-8.83441
+56,Portugal,"Leiria landfill, operated by Valorlis","Aterro Sanitário de Leiria
+Quinta do Banco – Parceiros, 
+2401 -971 Leiria, Portugal
+",39.749533,-8.807683
+57,Romania,BIHOR Oradea Sanitary Landfill ,"327, Matei Corvin street , Oradea",47.046501,21.918944
+58,Romania,Piatra Neamt,"Piatra Neam? town, Gheorghe Doja street, ",46.929962,26.377979
+59,Romania,"Chitila, Bucuresti ","Chitila Town, Drumul Poiana Trestiei and 45 Fortului Street",44.480139,26.02571
+60,Romania,Glina,"2 ?oseaua de Centur?, Pope?ti Leordeni, Ilfov County",44.389764,26.233501
+61,Romania,Albota landfill,"Albota commune, DN 65, DJ 671",44.789467,24.849397
+62,Slovakia,Zohor (Bratislava region),"Bratislavská 18, 900 51 Zohor",48.31746,16.982887
+63,Slovakia,Kalná and Hronom (Nitra region),935 33 Nový Tekov 133,48.198609,18.518401
+64,Slovakia,"Kalnô (Martin, Žilina region)","Kalnô, 036 01 Martin",48.394664,19.706697
+65,Slovakia,Žiar and Hronom (Banská Bystrica region),966 01 Bzenica 344,48.590501,18.854895
+66,Slovakia,Sabinov (Raznany) landfill ,082 61 Raž?any,49.10277,21.0978
+67,Slovenia,Leskovec,"Leskovec 30
+8321 Brusnice
+",46.387344,15.621614
+68,Slovenia,Špaja dolina ,"Spodnje Blato 1
+1290 Grosuplje
+",45.954161,14.677399
+69,Slovenia,Uni?no novo ,"Brdce 41b
+1431 Dol pri Hrastniku
+",46.149393,15.143429
+70,Slovenia,Globoko,"Hudeje 40
+8210 Trebnje 
+",45.954961,15.634387
+71,Slovenia,Gajke,"Travniška ulica 12x
+2331 Pragersko
+",46.395105,15.659155
+72,Spain,Vertedero del Centro de Tratamiento de Residuos de Góngora,"CTRA Tajonar s/n, 31192
+Góngora/Aranguren (Navarra)
+",42.761688,-1.530395
+73,Spain,Vertedero de residuos no peligrosos de COGERSA,La Zoreda S/N,43.326158,-5.869679
+74,Spain,Depósito controlado de Alcalá de Henares,"Ctra. M300, Km24,3
+28803, Alcalá de Henares
+Madrid
+",40.481979,-3.363542
+75,Spain,VERTEDERO CONTROLADO DE LA AGRUPACION Nº1-HUESCA,"Carretera HU-V-3242, de Huesca a Fornillos de Apiés",42.131845,-0.407806
+76,Spain,Vertedero de Gardelegi,"Carretera Peñacerrada A-2124 (Km. 5)
+01194 Vitoria-Gasteiz
+",42.804007,-2.648709
+77,UK,Greengairs,"Meikle Drumgray Road, Greengairs, Airdrie, Lanarkshire, Scotland, ML6 7TD.",55.912204,-3.945774
+78,UK,Tullyvar,"130 Tullyvar Road, Aughnacloy, Co. Tyrone, BT69 6BN. ",54.440301,-7.003951
+79,UK,Sutton Courtenay,"Appleford Sidlings, Sutton Courtenay, Abingdon, Oxfordshire, 
+OX14 4PW.
+",51.640874,-1.277537
+80,UK,Newport Docks,"Docks Way, Maesglas, Newport, Gwent, Wales. NP20 2NS",57.1101,-3.001988
+81,UK,Hill and Moor,"Piddle Brook Lane, Wyre Piddle, Pershore, Worcestershire, England. WR10 2LW.",52.128717,-2.028231
